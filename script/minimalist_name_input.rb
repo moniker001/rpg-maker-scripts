@@ -155,7 +155,7 @@ class Window_NameInput < Window_Selectable
   def item_rect(index)
     rect = Rect.new
     rect.x = index % 5 * 32 + index % 5 / 5 * 16
-    rect.y = index // 5 * line_height
+    rect.y = index / 5 * line_height
     rect.width = 32
     rect.height = line_height
     rect
