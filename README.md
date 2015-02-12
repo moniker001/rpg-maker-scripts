@@ -8,5 +8,5 @@ For instructions on how to use a script, refer to the directions at the beginnin
 ## Contents
 
 * [Minimalist Name Input](https://github.com/moniker001/rpg-maker-scripts/blob/master/script/minimalist_name_input.rb)
-* [Animated Title Screen]()
+* [Animated Title Screen]() - pending
   * See [this video](https://www.youtube.com/watch?v=Ee_74LG0MSQ#action=share) to see to final result.
