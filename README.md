@@ -8,5 +8,5 @@ For instructions on how to use a script, refer to the directions in the `README`
 ## Contents
 
 * [Minimalist Name Input](https://github.com/moniker001/rpg-maker-scripts/tree/master/minimalist-name-input)
-* [Animated Title Screen]() - Coming soon
+* [Animated Title Screen](https://github.com/moniker001/rpg-maker-scripts/tree/master/scc-title-screen) - Coming soon
   * See [this video](https://www.youtube.com/watch?v=Ee_74LG0MSQ#action=share) to see the final result.
